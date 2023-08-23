@@ -157,8 +157,8 @@ a {
 }
 
 .about-me img {
-    width: 230px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     margin: 40px 10px 10px 10px;
     border-radius: 50%;
 }
@@ -179,12 +179,13 @@ a {
 }
 
 .form-row .form-control {
-    width: 50%;
+    width: 49.5%;
     border: none;
     font-size: 20px;
     padding: 5px;
     font-family: 'Josefin Sans', sans-serif;
     padding: 20px 0;
+    border-radius: 5px;
 }
 
 .form-row .form-control:focus,
@@ -202,12 +203,14 @@ a {
     margin-top: 5px;
     font-size: 20px;
     padding: 20px 0;
+    border-radius: 5px;
 }
 
 form button {
     width: 100%;
-    background-color: rgb(79,177,79);
+    background-color: #556B2F;
     color: rgb(255,255,255);
+    border-radius: 5px;
     border: none;
     font-family: 'Josefin Sans', sans-serif;
     padding: 20px;
